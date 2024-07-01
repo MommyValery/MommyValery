@@ -27,7 +27,7 @@
   </li>
   <li> 
     <h4> MVP: </h4>
-    <a href="https://github.com/MommyValery/Cinemaddict">Cinemadiict 🎦 </a>
+    <a href="https://github.com/MommyValery/Cinemaddict">Cinemaddict 🎦 </a>
   </li>
   <li> 
     <h4> Javascript: </h4>
