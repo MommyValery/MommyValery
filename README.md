@@ -4,6 +4,8 @@
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47r9awemr5sl4jj1f50qqdf6mblc0vqlmn7touxdlj&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="250"/>
 </div>
 
+[![Telegram Badge](https://img.shields.io/badge/-valery_uva74-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/valery_uva74)
+
 <h1>
   Привет всем. Я Розонова Валерия
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -11,7 +13,6 @@
 <h2>
   <p>Frontend-разработчик</p>
 </h2>
-
 <h3>
   <p>Вот, что я могу <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: </p>
 </h3>
@@ -34,8 +35,6 @@
     <a href="https://github.com/MommyValery/Keksobooking">Keksobooking 🏨</a>
   </li>
 </ul>
-
-Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-valery_uva74-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/valery_uva74)
 
   ---
 
