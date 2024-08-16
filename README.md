@@ -24,8 +24,7 @@
   </li>
   <li> 
     <h4> React: </h4>
-    <a href="https://github.com/MommyValery/Grading">Escape Room 👻 (грейдирование)</a>
-    ---
+    <a href="https://github.com/MommyValery/Grading">Escape Room 👻 (грейдирование)</a> <br/>
     <a href="https://github.com/MommyValery/Typing-test">Typing test :monkey_face::keyboard:</a>
   </li>
   <li> 
