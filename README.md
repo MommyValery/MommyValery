@@ -32,8 +32,8 @@
     <a href="https://github.com/MommyValery/six-cities">Six Cities ✈️</a>
   </li>
   <li> 
-    <h4> MVP: </h4>
-    <a href="https://github.com/MommyValery/Cinemaddict">Cinemaddict 🎦 </a>
+    <h4> Javascript </h4>
+    <a href="https://github.com/MommyValery/Keksobooking">Keksobooking ✈️</a>
   </li>
 </ul>
 
