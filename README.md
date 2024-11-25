@@ -24,7 +24,7 @@
   </li>
   <li> 
     <h4> React: </h4>
-    <a href="https://github.com/MommyValery/Grading">Escape Room 👻 (грейдирование)</a> <br/>
+    <a href="https://github.com/MommyValery/Grading">Escape Room 👻 </a> <br/>
     <a href="https://mommyvalery.github.io/Typing-test-app/">Typing test :monkey_face::keyboard:</a>
   </li>
   <li> 
@@ -34,10 +34,6 @@
   <li> 
     <h4> MVP: </h4>
     <a href="https://github.com/MommyValery/Cinemaddict">Cinemaddict 🎦 </a>
-  </li>
-  <li> 
-    <h4> Javascript: </h4>
-    <a href="https://github.com/MommyValery/Keksobooking">Keksobooking 🏨</a>
   </li>
 </ul>
 
